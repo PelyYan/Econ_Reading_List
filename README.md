@@ -26,7 +26,7 @@
 
 ## 3. 其他因果推断应知应会
 1. **张子尧,黄炜**，《实证研究中的控制变量选择：原理与原则》，管理世界，2025。  
-   🔗 [10.19744/j.cnki.11-1235/f.2025.0136]()
+   🔗 [阅读链接](https://kns.cnki.net/kcms2/article/abstract?v=0eC8MkjONME7NkHQuim8KxNAuBKU-zbUwRz7howdQC-y_3bX-TpLNmsPEPOpXSRhZ0T-VnE2K211R4JyTb4ZFEWcwKTaUxE0c8nMgjf6azSEadtqiOBBuJtGBHceLYbymGV_b9zbkqeOwZ7uPVLWg5SPLaoCtdaam4BmEEX69RZS1L63iRuNbQ==&uniplatform=NZKPT&language=CHS)
 
 1. **作者名**，《书名/论文标题》，出版社或期刊，年份。  
    🔗 [阅读链接]()
